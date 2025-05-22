@@ -1,0 +1,2 @@
+# Egyszerű számkitaláló
+## JavaScript-ben
